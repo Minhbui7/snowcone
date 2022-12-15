@@ -1,10 +1,10 @@
-Author Mark Nguyen. Contributions from Tim Wilhoit and Minh Bui.
 
-https://github.com/marknguy/Snowcone-Greengrass
 
 # Face detection using IoT Greengrass on Snowcone
 AWS IoT Greengrass allows you to build, deploy, and manage device software to the Edge at-scale. In this demo, we show how IoT Greengrass manages an AI/ML model on Snowcone. The AI/ML model detects faces and draws rectangles around the eyes and face. This guide covers the building the on-premises portion of the architecture.
 
+Author Mark Nguyen. Contributions from Tim Wilhoit and Minh Bui.
+https://github.com/marknguy/Snowcone-Greengrass
 
 ## Architectural Overview
 ![Architectural Overview](gg-architecture.jpg)
