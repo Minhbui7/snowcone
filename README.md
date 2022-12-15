@@ -1,4 +1,5 @@
 Author Mark Nguyen. Contributions from Tim Wilhoit and Minh Bui.
+
 https://github.com/marknguy/Snowcone-Greengrass
 
 # Face detection using IoT Greengrass on Snowcone
